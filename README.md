@@ -1,6 +1,11 @@
 # 📚 Curso de Inteligência Artificial  
 Bem-vindo ao repositório oficial do meu curso de Inteligência Artificial! Aqui, você encontrará materiais, exemplos de código e exercícios para aprender sobre IA, desde fundamentos até conceitos avançados.
 
+## 📌 Aula ministrada online 
+- Certificado digital
+- Material em pdf
+- Exercicio prático
+
 ## 📌 Conteúdo do Curso
 - Introdução à IA e aprendizado de máquina  
 - Algoritmos clássicos de aprendizado supervisionado e não supervisionado  
